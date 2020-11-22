@@ -4,7 +4,8 @@
 #### I am **DevOps** and **FullStack** :technologist:
 I work on the Languages you will see in my repos.
 But I'm interested in **React-Native** and **React especially**.
-# ![coder-style](coder-style.png)
+![coder-style](coder-style.png)  | ![DevOps](devops.png) |  ![FullStack](fullstack.jfif)
+![React](react-mongoDb.jfif)
 
 <!--
 **JohnS-coder/JohnS-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
