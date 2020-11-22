@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+#### Welcome to *JohnS-coders* Github 🔭
+####
+#### I am **DevOps** and **FullStack** :technologist:
+I work on the Languages you will see in my repos.
+But I'm interested in **React-Native** and **React especially**.
 
 <!--
 **JohnS-coder/JohnS-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
