@@ -17,6 +17,7 @@ But I'm interested in **React-Native** and **React especially**.
 - 🔭 I’m currently working on some personal projects.
 - 👯 I’m looking forward to collaborate on open source projects
 
+<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
 ## 🛠 Skills:<br>
 
@@ -30,6 +31,10 @@ But I'm interested in **React-Native** and **React especially**.
 -NodeJs<br>
 -MongoDB<br>
 -SQL,PostgreSQL
+
+## Medium Articles
+
+- [How to add GIFs in GitHub README Without Software](https://john-smith-coder.medium.com/?p=458ce53491b3)
 
 ## 📫 How to reach me: <br>
 
