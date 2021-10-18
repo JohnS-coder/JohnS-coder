@@ -10,7 +10,7 @@ But I'm interested in **React-Native** and **React especially**.
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnSmith" alt="johnSmith" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=johnSmith&show_icons=true&theme=radical" align='right' width="55%">
+<img src="https://github-readme-stats.vercel.app/api?username=JohnS-coder&show_icons=true&theme=radical" align='right' width="55%">
 
 
 
