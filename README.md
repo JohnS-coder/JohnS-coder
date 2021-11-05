@@ -30,7 +30,7 @@ But I'm interested in **React-Native** and **React especially**.
 -Django<br>
 -NodeJs<br>
 -MongoDB<br>
--SQL,PostgreSQL
+-SQL,PostgreSQL>
 -AWS utilities(EC2, S3..)
 
 ## Medium Articles
