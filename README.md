@@ -14,7 +14,7 @@ But I'm interested in **React-Native** and **React especially**.
 
 
 
-- 🔭 I’m currently working on some personal projects.
+- 🔭 I’m currently working at NIOYATECH LLC..
 - 👯 I’m looking forward to collaborate on open source projects
 
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
@@ -30,12 +30,12 @@ But I'm interested in **React-Native** and **React especially**.
 -Django<br>
 -NodeJs<br>
 -MongoDB<br>
--SQL,PostgreSQL>
+-SQL,PostgreSQL<br>
 -AWS utilities(EC2, S3..)
 
 ## Medium Articles
 
-- [How to add GIFs in GitHub README Without Software](https://john-smith-coder.medium.com/?p=458ce53491b3)
+- [Do not now Which Language to start--> here](https://john-smith-coder.medium.com/?p=458ce53491b3)
 
 ## 📫 How to reach me: <br>
 
